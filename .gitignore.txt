@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.db
+*.opensdf
+*.vcxproj.user
+
+# Raylib / NuGet packages
+packages/
+*.exe
+*.obj
+*.ilk
+*.pdb

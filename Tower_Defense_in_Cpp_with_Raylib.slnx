@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Tower_Defense_in_Cpp_with_Raylib/Tower_Defense_in_Cpp_with_Raylib.vcxproj" Id="ffbe46bc-3f1e-4d48-b976-84dcacf9996d" />
+</Solution>
